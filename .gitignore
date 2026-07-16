@@ -1,8 +1,9 @@
 debug.log
 *.log
 .vscode/
+.agents/
+.codex/
 .env
 .env.*
 node_modules/
 dist/
-
