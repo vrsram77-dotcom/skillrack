@@ -19,10 +19,8 @@ int main() {
                 currentLength = 0;
             }
         }
-
         int answer = (maximumLength + 1) / 2;
         printf("%d\n", answer);
     }
-
     return 0;
 }
