@@ -4,8 +4,7 @@ int main() {
     scanf("%d", &t);
     while (t--) {
         int n;
-        char s[20];
-
+        char s[11];
         scanf("%d", &n);
         scanf("%s", s);
 
