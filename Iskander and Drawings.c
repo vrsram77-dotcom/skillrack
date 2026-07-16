@@ -7,7 +7,6 @@ int main() {
         char s[11];
         scanf("%d", &n);
         scanf("%s", s);
-
         int currentLength = 0;
         int maximumLength = 0;
 
