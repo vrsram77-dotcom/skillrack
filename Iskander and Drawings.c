@@ -1,9 +1,7 @@
 #include <stdio.h>
-
 int main() {
     int t;
     scanf("%d", &t);
-
     while (t--) {
         int n;
         char s[20];
