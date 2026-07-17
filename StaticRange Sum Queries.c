@@ -6,6 +6,6 @@ int main(void){
     prefix[0]=0;
     for(int i=0;i<=n;i++){
         long long values;
-        
+        sca
     }
 }
