@@ -4,5 +4,7 @@ int main(void){
     scanf("%d %d",&n,&q);
     long long prefix[n+1];
     prefix[0]=[0+1];
-    for(int i=0;i<=n;i++)
+    for(int i=0;i<=n;i++){
+        
+    }
 }
