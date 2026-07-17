@@ -5,6 +5,6 @@ int main(void){
     long long prefix[n+1];
     prefix[0]=0;
     for(int i=0;i<=n;i++){
-
+        
     }
 }
