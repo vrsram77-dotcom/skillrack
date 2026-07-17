@@ -15,6 +15,5 @@ int main(void) {
         long long sum = prefix[b] - prefix[a - 1];
         printf("%lld\n", sum);
     }
-
     return 0;
 }
