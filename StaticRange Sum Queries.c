@@ -2,6 +2,6 @@
 int main(void){
     int n,q;
     scanf("%d %d",&n,&q);
-    long long preefix[n+1];
+    long long prefix[n+1];
     prefix[0]
 }
